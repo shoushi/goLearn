@@ -9,11 +9,11 @@ import (
 )
 
 // 方法一：直接写map
-func sayHello(context *gin.Context) {
-	context.JSON(http.StatusOK, gin.H{
-		"message": "hello",
-	})
-}
+// func sayHello(context *gin.Context) {
+// 	context.JSON(http.StatusOK, gin.H{
+// 		"message": "hello",
+// 	})
+// }
 
 // 方法二：写struct,结构体 首字母大写，保证JSON可以取到
 type message struct {
