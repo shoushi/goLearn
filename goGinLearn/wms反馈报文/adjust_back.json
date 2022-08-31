@@ -1,0 +1,57 @@
+{
+	"header": {
+		"msgCode": "200",
+		"message": "{\"c\":\"lang.wms.common.item0012\"}"
+	},
+	"body": {
+		"size": 1,
+		"adjustment_list": [
+			{
+				"id": 1,
+				"status": 0,
+				"isSync": 0,
+				"syncTimes": 0,
+				"reservation1": "",
+				"reservation2": "",
+				"reservation3": "",
+				"reservation4": "",
+				"reservation5": "",
+				"adjuster": "",
+				"out_adjustment_code": "PD00000141",
+				"stocktake_command_code": "PD00000141",
+				"warehouse_code": "XXYY",
+				"creation_date": 1611221945662,
+				"remark": "",
+				"sku_amount": null,
+				"sku_list": [
+					{
+						"id": 1,
+						"out_adjustment_code": "PD00000141",
+						"sku_code": "G39JI8K3LWP",
+						"bar_code": "",
+						"owner_code": "O1FD56W79TC",
+						"amount": -20,
+						"out_batch_code": "128200815",
+						"batch_code": null,
+						"sku_level": 0,
+						"sku_reservation_1": "1598803200000",
+						"sku_reservation_2": "1690732800000",
+						"sku_reservation_3": "128200815",
+						"sku_reservation_4": "",
+						"sku_reservation_5": "",
+						"sku_id": null
+					},
+					{
+						"id": 2,
+						"out_adjustment_code": "PD00000141",
+						"sku_code": "G39JI8K3LWP",
+						"bar_code": "",
+						"owner_code": "O1FD56W79TC",
+						"amount": 50
+					}
+				]
+			}
+		],
+		"adjustment_amount": null
+	}
+}

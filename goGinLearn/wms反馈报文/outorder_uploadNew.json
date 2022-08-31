@@ -1,0 +1,104 @@
+{
+	"header": {
+		"msgCode": "200",
+		"message": "success"
+	},
+	"body": {
+		"size": 1,
+		"order_amount": 1,
+		"container_list": [
+			{
+				"id": 26,
+				"picker": "admin",
+				"target_outlet": 0,
+				"container_code": "7654321",
+				"container_code_seq": null,
+				"sku_amount": 2,
+				"sku_type_amount": 1,
+				"creation_date": 1624520270190,
+				"is_wave_last_container": 1,
+				"wall_code": "132",
+				"reservation1": "",
+				"reservation2": "",
+				"reservation3": "",
+				"reservation4": "",
+				"reservation5": "",
+				"order_list": [
+					{
+						"order_no": "qqout00624002",
+						"sku_list": [
+							{
+								"id": 32,
+								"item": 1,
+								"out_batch_code": "test01",
+								"sku_id": "",
+								"packing_code": "pk160039895027200001",
+								"packing_spec": "1*10*10",
+								"sku_code": "geek001",
+								"bar_code": "",
+								"owner_code": "163",
+								"sku_level": 100,
+								"amount": 2,
+								"orginalQty": 2,
+								"is_sequence_sku": 0,
+								"plan_amount": null,
+								"container_code": "7654321",
+								"batch_property01": "1577851200000",
+								"batch_property02": "1893470400000",
+								"batch_property03": "test01",
+								"batch_property04": "property06",
+								"batch_property05": "sku_reservation_5",
+								"batch_property06": "100",
+								"batch_property07": "property07",
+								"batch_property08": "property08",
+								"batch_property09": "property09",
+								"batch_property10": "property10",
+								"batch_property11": "property11",
+								"batch_property12": "property12",
+								"batch_code": "LT1600746820230",
+								"operator": null,
+								"operation_date": null,
+								"skuSpec": null,
+								"sequence_no": "",
+								"sequence_list": null,
+								"security_list": null,
+								"outorderskuuploadsub_list": [],
+								"pickup_amount": null,
+								"out_order_code": "qqout00624002",
+								"pkg_code": null,
+								"warehouse_code": null,
+								"production_line": 0,
+								"site": 0,
+								"lack_flag": 0,
+								"cell_bin_code": "",
+								"wall_position": 0,
+								"stock_count": 0,
+								"stock_count_reason": "",
+								"input_date": 1600746820226,
+								"track_codes": "",
+								"shelf_bin_list": [
+									{
+										"shelf_code": "A000111",
+										"shelf_bin_code": "A000111R1C",
+										"amount": 2
+									}
+								]
+							}
+						],
+						"container_amount": 1,
+						"is_order_last_container": 1
+					}
+				],
+				"wave_code": "W20210624-00000001",
+				"wave_structure": 1,
+				"pick_type": 1,
+				"wave_type": 0,
+				"workstation_no": "1",
+				"pick_seeding_bin_no": "",
+				"ids": [
+					26
+				]
+			}
+		]
+	}
+}
