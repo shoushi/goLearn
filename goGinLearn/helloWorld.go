@@ -56,6 +56,8 @@ func main() {
 	// 	})
 	// }
 
-	mock(r)
+	mock(r, "/beetle/api", "./wms反馈报文/")
+	mock(r, "/iwms", "./iwms反馈报文/")
+	mock(r, "/mock", "./mock报文/")
 	r.Run(":8080")
 }

@@ -1,0 +1,74 @@
+{
+	"header": {
+		"warehouse_code": "",
+		"user_id": "",
+		"user_key": ""
+	},
+	"body": {
+		"pallet_list": [
+			{
+				"pallet_code": "LPN001",
+				"container_list": [
+					{
+						"container_code": "CTN001",
+						"sku_list": [
+							{
+								"item": 1,
+								"sku_code": "sku001",
+								"out_order_code": "Order001",
+								"bar_code": "",
+								"sku_level": 0,
+								"amount": 1,
+								"out_batch_code": "batch001",
+								"production_date": 0,
+								"expiration_date": 0,
+								"owner_code": "lidong"
+							},
+							{
+								"item": 2,
+								"sku_code": "sku001",
+								"out_order_code": "Order001",
+								"bar_code": "",
+								"sku_level": 0,
+								"amount": 2,
+								"out_batch_code": "",
+								"production_date": 1481192046000,
+								"expiration_date": 1581192046000,
+								"owner_code": "lidong"
+							}
+						]
+					},
+					{
+						"container_code": "CTN002",
+						"sku_list": [
+							{
+								"item": 1,
+								"sku_code": "sku002",
+								"out_order_code": "Order002",
+								"bar_code": "",
+								"sku_level": 0,
+								"amount": 1,
+								"out_batch_code": "batch001",
+								"production_date": 0,
+								"expiration_date": 0,
+								"owner_code": "lidong"
+							},
+							{
+								"item": 2,
+								"sku_code": "sku02",
+								"out_order_code": "Order002",
+								"bar_code": "",
+								"sku_level": 0,
+								"amount": 2,
+								"out_batch_code": "",
+								"production_date": 1481192046000,
+								"expiration_date": 1581192046000,
+								"owner_code": "lidong"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

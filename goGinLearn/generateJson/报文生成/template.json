@@ -1,0 +1,30 @@
+{
+    "PickingWaveOrdersRowId": 104395,
+    "PickingWaveId": 255,
+    "OrderId": 1804665,
+    "PickState": "Unpicked",
+    "SortOrder": 0,
+    "ItemCount": 10,
+    "PickedItemsCount": 0,
+    "Items": [
+        {
+            "SortOrder": 0,
+            "ToPickQuantity": 10,
+            "PickingWaveItemsRowId": 109292,
+            "PickingWaveId": 255,
+            "PickedQuantity": 0,
+            "ItemState": "Normal",
+            "BatchInventoryId": 537762,
+            "OrderId": 1804665,
+            "OrderItemRowId": "ddd9cd95-0209-456a-b70a-38e449b497cd{num}",
+            "StockItemId": "b287ffaf-6a08-4464-9c60-cb51a4a23024"
+        }
+    ],
+    "Composition": [],
+    "OrderId_Guid": "986d7819-5c2c-4959-bdeb-513445c8f6bb{num}",
+    "IsProcessed": false,
+    "IsCancelled": false,
+    "IsOnHold": false,
+    "IsLocked": false,
+    "IsPaid": false
+}

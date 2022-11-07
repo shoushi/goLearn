@@ -1,0 +1,128 @@
+{
+	"PickingWaves": [
+		{
+			"LocationId": "528e8a57-7937-4c3d-bdca-05bd214dff71",
+			"CreatedDate": "2022-09-28T20:13:26Z",
+			"OrderCount": 12,
+			"ItemCount": 79,
+			"ItemsPicked": 22,
+			"OrdersPicked": 2,
+			"AccumulatedInProgressSeconds": 0,
+			"StartTime": "2022-09-29T09:41:27.677Z",
+			"GroupType": "Items",
+			"Orders": [
+				{
+					"PickingWaveOrdersRowId": 104395,
+					"PickingWaveId": 255,
+					"OrderId": 1804665,
+					"PickState": "Unpicked",
+					"SortOrder": 0,
+					"ItemCount": 10,
+					"PickedItemsCount": 0,
+					"Items": [
+						{
+							"SortOrder": 0,
+							"ToPickQuantity": 10,
+							"PickingWaveItemsRowId": 109292,
+							"PickingWaveId": 255,
+							"PickedQuantity": 0,
+							"ItemState": "Normal",
+							"BatchInventoryId": 537762,
+							"OrderId": 1804665,
+							"OrderItemRowId": "ddd9cd95-0209-456a-b70a-38e449b497cd",
+							"StockItemId": "b287ffaf-6a08-4464-9c60-cb51a4a23024"
+						}
+					],
+					"Composition": [],
+					"OrderId_Guid": "986d7819-5c2c-4959-bdeb-513445c8f6bb",
+					"IsProcessed": false,
+					"IsCancelled": false,
+					"IsOnHold": false,
+					"IsLocked": false,
+					"IsPaid": false
+				},
+				{template}
+			],
+			"PickingWaveId": 255,
+			"State": "InProgress"
+		}
+	],
+	"Skus": [
+		{
+			"SKU": "CH20-00744",
+			"StockItemId": "b287ffaf-6a08-4464-9c60-cb51a4a23024",
+			"ItemTitle": "Kinetica Whey Protein 2.27KG - Vanilla",
+			"Barcode": "5390413007600",
+			"PrimaryImageURL": ""
+		},
+		{
+			"SKU": "CH20-00827",
+			"StockItemId": "f3a02187-a896-4d0f-89e5-f89b6f1de1a3",
+			"ItemTitle": "Herbolive Argan Face Night Cream 50 ml",
+			"Barcode": "5200310402777",
+			"PrimaryImageURL": ""
+		},
+		{
+			"SKU": "CH20-08608",
+			"StockItemId": "9b9a8d62-ef23-4535-ac80-fb575ee07efb",
+			"ItemTitle": "Crystal Deodorants Body Spray 100Ml",
+			"Barcode": "86449259933",
+			"PrimaryImageURL": ""
+		},
+		{
+			"SKU": "CH20-07734",
+			"StockItemId": "6920bed6-3b8f-4a33-bc10-e57ca04a0450",
+			"ItemTitle": "Youngblood Incredible Wear Gel Liner, Lagoon 3 g",
+			"Barcode": "885364254609",
+			"PrimaryImageURL": ""
+		}
+	],
+	"Bins": [
+		{
+			"BatchId": 555187,
+			"BatchInventoryId": 537762,
+			"PrioritySequence": 1,
+			"BatchStatus": "Available",
+			"BinRack": "BIN-112233",
+			"CurrentFullPercentage": 0,
+			"Quantity": 100,
+			"PickedQuantity": 34,
+			"InventoryTrackingType": 1,
+			"StockItemId": "b287ffaf-6a08-4464-9c60-cb51a4a23024",
+			"BatchNumber": "112233",
+			"ExpiresOn": "2024-09-27T23:00:00Z",
+			"SellBy": "2024-09-27T23:00:00Z",
+			"LocationId": "528e8a57-7937-4c3d-bdca-05bd214dff71"
+		},
+		{
+			"BatchId": 555188,
+			"BatchInventoryId": 537764,
+			"PrioritySequence": 0,
+			"BatchStatus": "Available",
+			"BinRack": "TEST-BIN",
+			"CurrentFullPercentage": 0,
+			"Quantity": 100,
+			"PickedQuantity": 23,
+			"InventoryTrackingType": 2,
+			"StockItemId": "9b9a8d62-ef23-4535-ac80-fb575ee07efb",
+			"BatchNumber": "12345",
+			"LocationId": "528e8a57-7937-4c3d-bdca-05bd214dff71"
+		},
+		{
+			"BatchId": 555189,
+			"BatchInventoryId": 537766,
+			"PrioritySequence": 1,
+			"BatchStatus": "Available",
+			"BinRack": "BIn-A123",
+			"CurrentFullPercentage": 0,
+			"Quantity": 100,
+			"PickedQuantity": 40,
+			"InventoryTrackingType": 1,
+			"StockItemId": "6920bed6-3b8f-4a33-bc10-e57ca04a0450",
+			"BatchNumber": "TEst5",
+			"ExpiresOn": "2026-09-27T23:00:00Z",
+			"SellBy": "2026-09-27T23:00:00Z",
+			"LocationId": "528e8a57-7937-4c3d-bdca-05bd214dff71"
+		}
+	]
+}
