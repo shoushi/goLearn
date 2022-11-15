@@ -1,0 +1,29 @@
+{
+	"header": {
+		"msgCode": "200",
+		"message": "调用成功！"
+	},
+	"body": {
+		"order_amount": 2,
+		"order_list": [
+			{
+				"out_order_code": "order001",
+				"warehouse_code": "geekplus",
+				"owner_code": "lidong",
+				"cancel_date": 1481192046000,
+				"remark": "",
+                "out_wave_code":"test1",
+				"operation_result": 0
+			},
+			{
+				"out_order_code": "order002",
+				"warehouse_code": "geekplus",
+				"owner_code": "lidong",
+				"cancel_date": 1481192046000,
+				"remark": "",
+                "out_wave_code":"test2",
+				"operation_result": 0
+			}
+		]
+	}
+}
