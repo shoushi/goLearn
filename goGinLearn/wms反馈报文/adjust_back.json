@@ -27,6 +27,8 @@
 					{
 						"id": 1,
 						"out_adjustment_code": "PD00000141",
+						"shelf_code":"shelf_code",
+						"shelf_bin_code":"shelf_bin_code",
 						"sku_code": "G39JI8K3LWP",
 						"bar_code": "",
 						"owner_code": "O1FD56W79TC",

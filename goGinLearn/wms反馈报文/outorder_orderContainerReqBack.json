@@ -1,0 +1,39 @@
+{
+	"header": {
+		"msgCode": "200",
+		"message": "调用成功"
+	},
+	"body": {
+		"warehouse_code": "ZZKL01",
+		"binding_list": [
+			{
+				"id": 6,
+				"out_order_code": "CC_07060003",
+				"owner_code": "test",
+				"operate_time": 1688626923317,
+				"operator": "admin",
+				"container_code": "zyy04",
+				"wall_code": "",
+				"workstation_no": "4",
+				"seeding_bin_code": "A1",
+				"reservation01": "",
+				"reservation02": "",
+				"reservation03": ""
+			},
+			{
+				"id": 7,
+				"out_order_code": "CC_07060002",
+				"owner_code": "test",
+				"operate_time": 1688626923317,
+				"operator": "admin",
+				"container_code": "zyy04",
+				"wall_code": "",
+				"workstation_no": "4",
+				"seeding_bin_code": "A1",
+				"reservation01": "",
+				"reservation02": "",
+				"reservation03": ""
+			}
+		]
+	}
+}

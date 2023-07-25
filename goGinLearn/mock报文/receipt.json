@@ -1,0 +1,32 @@
+{
+    "code": "0",
+    "info": {
+      "container_code": "21726",
+      "container_type": "820",
+      "receipt_amount": 15396,
+      "receipt_list": [
+        {
+          "receipt_code": "16263",
+          "sku_list": [
+            {
+              "amount": 823,
+              "bin_code": "759",
+              "owner_code": "test",
+              "sku_code": "16891",
+              "sku_level": 0
+            },
+            {
+              "amount": 54488,
+              "bin_code": "13694",
+              "owner_code": "test",
+              "sku_code": "26026",
+              "sku_level": 0
+            }
+          ],
+          "type": 2
+        }
+      ]
+    },
+    "msg": "OK"
+  }
+  

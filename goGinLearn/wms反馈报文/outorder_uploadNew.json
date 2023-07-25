@@ -1,104 +1,234 @@
 {
-	"header": {
-		"msgCode": "200",
-		"message": "success"
-	},
-	"body": {
-		"size": 1,
-		"order_amount": 1,
-		"container_list": [
-			{
-				"id": 26,
-				"picker": "admin",
-				"target_outlet": 0,
-				"container_code": "7654321",
-				"container_code_seq": null,
-				"sku_amount": 2,
-				"sku_type_amount": 1,
-				"creation_date": 1624520270190,
-				"is_wave_last_container": 1,
-				"wall_code": "132",
-				"reservation1": "",
-				"reservation2": "",
-				"reservation3": "",
-				"reservation4": "",
-				"reservation5": "",
-				"order_list": [
-					{
-						"order_no": "qqout00624002",
-						"sku_list": [
-							{
-								"id": 32,
-								"item": 1,
-								"out_batch_code": "test01",
-								"sku_id": "",
-								"packing_code": "pk160039895027200001",
-								"packing_spec": "1*10*10",
-								"sku_code": "geek001",
-								"bar_code": "",
-								"owner_code": "163",
-								"sku_level": 100,
-								"amount": 2,
-								"orginalQty": 2,
-								"is_sequence_sku": 0,
-								"plan_amount": null,
-								"container_code": "7654321",
-								"batch_property01": "1577851200000",
-								"batch_property02": "1893470400000",
-								"batch_property03": "test01",
-								"batch_property04": "property06",
-								"batch_property05": "sku_reservation_5",
-								"batch_property06": "100",
-								"batch_property07": "property07",
-								"batch_property08": "property08",
-								"batch_property09": "property09",
-								"batch_property10": "property10",
-								"batch_property11": "property11",
-								"batch_property12": "property12",
-								"batch_code": "LT1600746820230",
-								"operator": null,
-								"operation_date": null,
-								"skuSpec": null,
-								"sequence_no": "",
-								"sequence_list": null,
-								"security_list": null,
-								"outorderskuuploadsub_list": [],
-								"pickup_amount": null,
-								"out_order_code": "qqout00624002",
-								"pkg_code": null,
-								"warehouse_code": null,
-								"production_line": 0,
-								"site": 0,
-								"lack_flag": 0,
-								"cell_bin_code": "",
-								"wall_position": 0,
-								"stock_count": 0,
-								"stock_count_reason": "",
-								"input_date": 1600746820226,
-								"track_codes": "",
-								"shelf_bin_list": [
-									{
-										"shelf_code": "A000111",
-										"shelf_bin_code": "A000111R1C",
-										"amount": 2
-									}
-								]
-							}
-						],
-						"container_amount": 1,
-						"is_order_last_container": 1
-					}
-				],
-				"wave_code": "W20210624-00000001",
-				"wave_structure": 1,
-				"pick_type": 1,
-				"wave_type": 0,
-				"workstation_no": "1",
-				"pick_seeding_bin_no": "",
-				"ids": [
-					26
-				]
-			}
-		]
-	}
+    "header": {
+        "msgCode": "200",
+        "message": "Call succeed"
+    },
+    "body": {
+        "size": 1,
+        "order_amount": 1,
+        "container_list": [
+            {
+                "id": 33519,
+                "picker": "G8166758",
+                "target_outlet": null,
+                "reservation1": null,
+                "reservation2": null,
+                "reservation3": null,
+                "reservation4": null,
+                "container_code": "ML-0008",
+                "container_code_seq": null,
+                "sku_amount": 2,
+                "sku_type_amount": 2,
+                "creation_date": 1687792827041,
+                "is_wave_last_container": 1,
+                "order_list": [
+                    {
+                        "order_no": "1634642",
+                        "sku_list": [
+                            {
+                                "id": 66313,
+                                "item": 1,
+                                "out_batch_code": "V1",
+                                "sku_id": "1979651010-11",
+                                "packing_code": "",
+                                "packing_spec": "",
+                                "sku_code": "1979651010-11",
+                                "bar_code": "194894835173",
+                                "owner_code": "COLUMBIA",
+                                "sku_level": 100,
+                                "amount": 1,
+                                "orginalQty": 1,
+                                "is_sequence_sku": 0,
+                                "plan_amount": null,
+                                "container_code": "ML-0008",
+                                "batch_property01": "28800000",
+                                "batch_property02": "4070937600000",
+                                "batch_property03": "V1",
+                                "batch_property04": "",
+                                "batch_property05": "",
+                                "batch_property06": "100",
+                                "batch_property07": "",
+                                "batch_property08": "",
+                                "batch_property09": "",
+                                "batch_property10": "",
+                                "batch_property11": "",
+                                "batch_property12": "",
+                                "batch_code": "LT1686406496355",
+                                "operator": null,
+                                "operation_date": null,
+                                "skuSpec": null,
+                                "sequence_no": "",
+                                "sequence_list": null,
+                                "security_list": null,
+                                "outorderskuuploadsub_list": [
+                                    
+                                ],
+                                "pickup_amount": null,
+                                "out_order_code": "1634642",
+                                "pkg_code": null,
+                                "warehouse_code": null,
+                                "production_line": 0,
+                                "site": 0,
+                                "lack_flag": 0,
+                                "cell_bin_code": "",
+                                "wall_position": 0,
+                                "stock_count": null,
+                                "stock_count_reason": null,
+                                "input_date": 1686406496346,
+                                "track_codes": "",
+                                "out_order_details_back_id": 66313,
+                                "cancel_qty": null,
+                                "shelf_bin_list": [
+                                    {
+                                        "shelf_code": "A000197",
+                                        "shelf_bin_code": "A000197B2C",
+                                        "amount": 1,
+                                        "logic_area_code": "Logic-COMMON"
+                                    }
+                                ],
+                                "exceptions": [
+                                    {
+                                        "amount": 0,
+                                        "reasonCode": "DAMAGED",
+                                        "reasonName": "破损",
+                                        "rownum": 1
+                                    },
+                                    {
+                                        "amount": 0,
+                                        "reasonCode": "CANCELLED",
+                                        "reasonName": "取消",
+                                        "rownum": 2
+                                    },
+                                    {
+                                        "amount": 0,
+                                        "reasonCode": "MISSING",
+                                        "reasonName": "丢失",
+                                        "rownum": 3
+                                    },
+                                    {
+                                        "amount": 0,
+                                        "reasonCode": "LACKED",
+                                        "reasonName": "缺货",
+                                        "rownum": 4
+                                    }
+                                ]
+                            }
+                        ],
+                        "container_amount": 1,
+                        "is_order_last_container": 1
+                    },
+                    {
+                        "order_no": "1634766",
+                        "sku_list": [
+                            {
+                                "id": 66314,
+                                "item": 1,
+                                "out_batch_code": "V1",
+                                "sku_id": "1424692010-9",
+                                "packing_code": "",
+                                "packing_spec": "",
+                                "sku_code": "1424692010-9",
+                                "bar_code": "190540580930",
+                                "owner_code": "COLUMBIA",
+                                "sku_level": 100,
+                                "amount": 1,
+                                "orginalQty": 1,
+                                "is_sequence_sku": 0,
+                                "plan_amount": null,
+                                "container_code": "ML-0008",
+                                "batch_property01": "28800000",
+                                "batch_property02": "4070937600000",
+                                "batch_property03": "V1",
+                                "batch_property04": "",
+                                "batch_property05": "",
+                                "batch_property06": "100",
+                                "batch_property07": "",
+                                "batch_property08": "",
+                                "batch_property09": "",
+                                "batch_property10": "",
+                                "batch_property11": "",
+                                "batch_property12": "",
+                                "batch_code": "LT1686406456149",
+                                "operator": null,
+                                "operation_date": null,
+                                "skuSpec": null,
+                                "sequence_no": "",
+                                "sequence_list": null,
+                                "security_list": null,
+                                "outorderskuuploadsub_list": [
+                                    
+                                ],
+                                "pickup_amount": null,
+                                "out_order_code": "1634766",
+                                "pkg_code": null,
+                                "warehouse_code": null,
+                                "production_line": 0,
+                                "site": 0,
+                                "lack_flag": 0,
+                                "cell_bin_code": "",
+                                "wall_position": 0,
+                                "stock_count": null,
+                                "stock_count_reason": null,
+                                "input_date": 1686406456142,
+                                "track_codes": "",
+                                "out_order_details_back_id": 66314,
+                                "cancel_qty": null,
+                                "shelf_bin_list": [
+                                    {
+                                        "shelf_code": "A000277",
+                                        "shelf_bin_code": "A000277B1C",
+                                        "amount": 1,
+                                        "logic_area_code": "Logic-COMMON"
+                                    }
+                                ],
+                                "exceptions": [
+                                    {
+                                        "amount": 0,
+                                        "reasonCode": "DAMAGED",
+                                        "reasonName": "破损",
+                                        "rownum": 1
+                                    },
+                                    {
+                                        "amount": 0,
+                                        "reasonCode": "CANCELLED",
+                                        "reasonName": "取消",
+                                        "rownum": 2
+                                    },
+                                    {
+                                        "amount": 0,
+                                        "reasonCode": "MISSING",
+                                        "reasonName": "丢失",
+                                        "rownum": 3
+                                    },
+                                    {
+                                        "amount": 0,
+                                        "reasonCode": "LACKED",
+                                        "reasonName": "缺货",
+                                        "rownum": 4
+                                    }
+                                ]
+                            }
+                        ],
+                        "container_amount": 1,
+                        "is_order_last_container": 1
+                    }
+                ],
+                "wave_code": "W20230626-00000007",
+                "pick_type": 0,
+                "wave_type": 52,
+                "workstation_no": "113",
+                "pick_seeding_bin_no": "B4",
+                "ids": [
+                    33520,
+                    33519
+                ],
+                "start_time": 1687792742734,
+                "complete_time": 1687792785751,
+                "dictCache": {
+                    
+                },
+                "container_type": "2"
+            }
+        ]
+    }
 }

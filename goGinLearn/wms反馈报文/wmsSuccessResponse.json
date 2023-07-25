@@ -1,0 +1,16 @@
+{
+    "header":{
+        "msgCode":"200",
+        "message":"发货成功"
+    },
+    "body":{
+        "size":0,
+        "message_list":[
+            {
+                "id":330,
+                "status":1,
+                "message":"操作成功"
+            }
+        ]
+    }
+}
