@@ -6,7 +6,7 @@
       "receipt_amount": 15396,
       "receipt_list": [
         {
-          "receipt_code": "16263",
+          "receipt_code": "${timestemp}",
           "sku_list": [
             {
               "amount": 823,
